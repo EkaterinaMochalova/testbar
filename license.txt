@@ -1,0 +1,11 @@
+Model Information:
+* title:	Glass of beverage / drink / coke / whiskey
+* source:	https://sketchfab.com/3d-models/glass-of-beverage-drink-coke-whiskey-126ebf50d9274597924ac25089c11181
+* author:	Krzysztof Mazia (https://sketchfab.com/mazia)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Glass of beverage / drink / coke / whiskey" (https://sketchfab.com/3d-models/glass-of-beverage-drink-coke-whiskey-126ebf50d9274597924ac25089c11181) by Krzysztof Mazia (https://sketchfab.com/mazia) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
